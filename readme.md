@@ -176,3 +176,10 @@ These are protected admin-only routes.
 - ⚡ Fast frontend (Vite + Tailwind + Redux Toolkit)
 
 ---
+
+## Test Credentials
+
+- Admin Login -> {username: admin, password: admin}
+- Uers Login -> {username: usertest2, password: password}
+
+---
